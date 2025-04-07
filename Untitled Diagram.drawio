@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.8" pages="2">
   <diagram name="Page-1" id="197159a0-c6a4-9194-75a8-e4174976684c">
-    <mxGraphModel dx="2493" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="918" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -439,8 +439,8 @@
         <mxCell id="Qs-pVyy2RuvGPjBRmzeA-82" style="vsdxID=9;fillColor=#000000;gradientColor=none;shape=stencil(pZXdbsIwDIWfJrdWbOev1wzeA4lCI7oWlbLB29MSIaZtbUR959jni06k6Fjx6lxtT6Uife679lh+x11fKf5QRLGpyi72Q6V4rXi1b7vy0LWXZpfOp+2oHKvP9mu84Zo47yDgSJG+pQ5acPzobBJQx2YW0NNiYsBiuThjRS8XFxYYp8VowBQygBHITgPswQUZkHmwI2CSARlLwYJFGRAMcJj5bAHIyQCPEGYAx+C9DMhYsg4syYCMJUOgWQZkLLEDEgIZS4TgjQwo6Jkf/wMerBBAPRNfz+Ey8buh+wcYilfG72NdpxXxc/57JwyttE94fQc=);strokeColor=none;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="Qs-pVyy2RuvGPjBRmzeA-78" vertex="1">
           <mxGeometry x="70.96774193548387" y="8.571428571428571" width="24.83870967741936" height="17.142857142857142" as="geometry" />
         </mxCell>
-        <mxCell id="Qs-pVyy2RuvGPjBRmzeA-83" value="ESXi Server1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="940" y="230" width="130" height="50" as="geometry" />
+        <mxCell id="Qs-pVyy2RuvGPjBRmzeA-83" value="ESXi Server 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="940" y="225" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Qs-pVyy2RuvGPjBRmzeA-84" value="port1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1025.2" y="610" width="60" height="40" as="geometry" />
@@ -501,6 +501,21 @@
         </mxCell>
         <mxCell id="9-3pXEzLEbPkM52OvuKp-11" value="vSwitch 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1130" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-3pXEzLEbPkM52OvuKp-14" value="L2/L3&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Switch&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="635" y="730" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9-3pXEzLEbPkM52OvuKp-15" value="vmnic 0&lt;div&gt;1 Gbits/s&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-3pXEzLEbPkM52OvuKp-16" value="vmnic 1&lt;div&gt;1 Gbits/s&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-3pXEzLEbPkM52OvuKp-17" value="vmnic 2&lt;div&gt;1 Gbits/s&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-3pXEzLEbPkM52OvuKp-18" value="vmnic 3&lt;div&gt;1 Gbits/s&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="390" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
