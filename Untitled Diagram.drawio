@@ -124,7 +124,7 @@
           <mxGeometry x="1262.8" y="119.99999999999997" width="57.2" height="55.2" as="geometry" />
         </mxCell>
         <mxCell id="V1fP8Ok8U7q3qZ9ysbPQ-151" value="ESXi Server1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="250" width="130" height="50" as="geometry" />
+          <mxGeometry x="1490" y="240.6" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="V1fP8Ok8U7q3qZ9ysbPQ-184" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V1fP8Ok8U7q3qZ9ysbPQ-185" target="V1fP8Ok8U7q3qZ9ysbPQ-210">
           <mxGeometry relative="1" as="geometry" />
